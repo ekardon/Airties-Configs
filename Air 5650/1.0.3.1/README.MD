@@ -1,0 +1,13 @@
+Neler var bu config'de:
+- TR064 kapatıldı.
+- TR069 kapatıldı.
+- TR143 kapatıldı.
+- uPnP  kapatıldı.
+- Telnet açık bırakıldı.
+- WAN çıkışından Gigabit ethernet aktifleştirildi.
+- Gereksiz olan IPTV ayarları kapatıldı.
+- IGMP kapatıldı.
+- bridge-vlan-fo ve bridge-vlan-fc (TTNET Fon ile alakalı) kapatıldı.
+- Default web arayüzü kullanıcı adı "user2020" olarak değiştirildi.
+- Default web arayüzü şifresi "W_3nWk" olarak değiştirildi.
+- Default telnet şifresi "ns)44DW.Lr" olarak değiştirildi (kullanıcı adı hala "root").
